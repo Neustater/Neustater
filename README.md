@@ -1,4 +1,4 @@
 - Hi, I’m @Neustater
 - This is mostly just school or personal projects
-- Nothing too important yet...
+- Checkout my 520 AI Repo!
 
