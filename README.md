@@ -1,4 +1,4 @@
 - Hi, I’m @Neustater
-- This is mostly just school or personal projects
-- Checkout my 520 AI Repo!
+- Checkout Tic-Tac-Toe Cubed!
+- Also the neural-network in my 520 AI Repo!
 
